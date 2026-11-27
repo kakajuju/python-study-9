@@ -91,4 +91,4 @@ print(email)
 # s = email.split("@")
 # s[0]  s[1]
 user_id, domain = email.split("@")
-rpint(user_id, domain)
+print(user_id, domain)
